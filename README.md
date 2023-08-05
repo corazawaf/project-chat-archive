@@ -53,4 +53,4 @@ Add links new files, agenda, decisions etc to table in README.md.
 
 ### License
 
-Please note this code was originally created by OWASP Core Ruleset and is available [here](https://github.com/corazawaf/project-chat-archive/tree/main). It is unlicensed.
+Please note this code was originally created by OWASP Core Ruleset and is available [here](https://github.com/coreruleset/project-chat-archive/tree/main). It is unlicensed.
