@@ -1,6 +1,6 @@
 ## Protocols of the project chats
 
-We are running a general project chat the first Monday of a month 20:30 CET and a chat about open issues the 3rd Monday of a month on the OWASP Slack, channel #Coreruleset.
+We are running a general project chat the first Monday of a month 20:30 CET and a chat about open issues the 3rd Monday of a month on the OWASP Slack, channel #coraza.
 
 The Agenda for the chat is announced as a github issue in advance with the tag `Meeting Agenda`. In the Agenda you will also find general news for the project like links to 3rd party news articles etc. Also look through the "other topics" in the agenda for infos about the project.
 
@@ -8,7 +8,7 @@ The Agenda for the chat is announced as a github issue in advance with the tag `
 | -------- | -------------- | ------------ |
 | 2022, February | [chat-archive-2022-02-07.md](chat-archive-2022-02-07.md) | [chat-archive-2022-02-21.md](chat-archive-2022-02-21.md) |
 | 2022, March | [chat-archive-2022-03-07.md](chat-archive-2022-03-07.md) | [chat-archive-2022-03-21.md](chat-archive-2022-03-21.md) |
-| 2022, April | [chat-archive-2022-04-04.md](chat-archive-2022-04-04.md) / [1st v4 release meeting](chat-archive-2022-04-11.md) | [chat-archive-2022-04-18.md](chat-archive-2022-04-18.md) |
+| 2022, April | [chat-archive-2022-04-04.md](chat-archive-2022-04-04.md) | [chat-archive-2022-04-18.md](chat-archive-2022-04-18.md) |
 | 2022, May | [chat-archive-2022-05-02.md](chat-archive-2022-05-02.md) | [chat-archive-2022-05-16.md](chat-archive-2022-05-16.md) |
 | 2022, June | [chat-archive-2022-06-06.md](chat-archive-2022-06-06.md) | [chat-archive-2022-06-20.md](chat-archive-2022-06-20.md) |
 | 2022, July | [chat-archive-2022-07-04.md](chat-archive-2022-07-04.md) | [chat-archive-2022-07-18.md](chat-archive-2022-07-18.md) |
