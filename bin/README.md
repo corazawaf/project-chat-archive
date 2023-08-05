@@ -1,0 +1,1 @@
+Code by OWASP Core Ruleset: https://github.com/coreruleset/project-chat-archive
