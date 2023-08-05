@@ -1,6 +1,6 @@
 ## Protocols of the project chats
 
-We are running a general project chat the first Monday of a month 20:30 CET and a chat about open issues the 3rd Monday of a month on the OWASP Slack, channel #coraza.
+We are running a general project chat the last Wednesday of a month 14:00 CET on the OWASP Slack, channel #coraza.
 
 The Agenda for the chat is announced as a github issue in advance with the tag `Meeting Agenda`. In the Agenda you will also find general news for the project like links to 3rd party news articles etc. Also look through the "other topics" in the agenda for infos about the project.
 
@@ -50,3 +50,7 @@ $ ./bin/generate-all.sh
 ```
 
 Add links new files, agenda, decisions etc to table in README.md.
+
+### License
+
+Please note this code was originally created by OWASP Core Ruleset and is available [here](https://github.com/corazawaf/project-chat-archive/tree/main). It is unlicensed.
